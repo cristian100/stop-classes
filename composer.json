@@ -1,0 +1,22 @@
+{
+    "name": "cristian100/stop-classes",
+    "type": "drupal-library",
+    "description": "This library adds timed stop classes like stop-500, stop-750, stop-1000 and stop-1250.",
+    "keywords": ["javascript", "jquery", "effect", "timed"],
+    "license": "GPL-2.0",
+    "autoload": {
+        "psr-0" : {
+            "cristian100\\stop-classes" : "src"
+        }
+    },
+    "authors": [
+        {
+            "name": "Cristian Antonio Gonzalez Cienfuegos"
+        }
+    ],
+    "extra": {
+        "branch-alias": {
+            "dev-master": "0.x-dev"
+        }
+    }
+}
